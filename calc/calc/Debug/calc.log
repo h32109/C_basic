@@ -1,0 +1,6 @@
+﻿  calc1.c
+  calc2.c
+C:\Users\h3210\source\repos\calc\calc\calc2.c(3,18): warning C4101: 'sub_result' :참조되지 않은 지역 변수입니다.
+C:\Users\h3210\source\repos\calc\calc\calc2.c(3,6): warning C4101: 'add_result' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  calc.vcxproj -> C:\Users\h3210\source\repos\calc\Debug\calc.exe
