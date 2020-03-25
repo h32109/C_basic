@@ -1,0 +1,3 @@
+﻿  print.c
+C:\Users\h3210\source\repos\print\print\print.c(4,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  print.vcxproj -> C:\Users\h3210\source\repos\print\Debug\print.exe
